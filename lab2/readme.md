@@ -32,7 +32,7 @@
 
 ![](./imgs/lab2-8.png)
 
-## Q.9: Delete "*baduser*" accound?
+## Q.9: Delete "*baduser*" account?
 
 ![](./imgs/lab2-9.png)
 
