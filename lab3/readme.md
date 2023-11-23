@@ -54,3 +54,27 @@
     * `/etc/profile` on login shell
     * `~/.profile` on login shell
     * `~/.kshrc` on login && non-login shell 
+
+## Q.9: Edit your profile to display **date** at login and change your **Prompt** permanently?
+
+1. ![lab3-9-a](./imgs/lab3-9-a.png)
+
+1. ![lab3-9-b.png](./imgs/lab3-9-b.png)
+
+## Q.10: Execute `echo \` ?
+
+![lab3 Q.10](./imgs/lab3-10-a.png)
+
+* **What is the purpose of the `\`?**
+
+    If the next character after the backslash is a newline character, then that newline will not be interpreted as the end of the command by the shell. Instead, it effectively allows a command to span multiple lines. It allows you to break a long command into multiple lines for better readability without affecting the actual command execution.
+
+
+* **Change `>` to `:` ?**
+
+    ![change PS2](./imgs/lab3-10-b.png)
+    ![echo command](./imgs/lab3-10-c.png)
+
+## Q.11: Create Bash shell alias named **ls** for the **ls -l** command?
+
+![lab3 Q.11](./imgs/lab3-11.png)
