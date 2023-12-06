@@ -46,3 +46,19 @@
 
 ![](./imgs/linux-lab6-11-a.png)
 ![](./imgs/linux-lab6-11-b.png)
+
+## Q.12: Send memory info every 10 minutes between 8:00 AM and 5:00 PM today?
+
+![](./imgs/linux-lab6-12.png)
+
+## Q.13: User mail as root user to check for e-mail from the `cron` jobs you have scheduled?
+
+![](./imgs/linux-lab6-13.png)
+
+## Q.14: How could you send the output from these `cron` jobs to another e-mail address?
+
+![](./imgs/linux-lab6-14.png)
+
+## Q.15: Use mail as the manager user to check for e-mail fromt the `cron` jobs you have scheduled?
+
+![](./imgs/linux-lab6-15.png)
