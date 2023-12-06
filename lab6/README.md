@@ -62,3 +62,23 @@
 ## Q.15: Use mail as the manager user to check for e-mail fromt the `cron` jobs you have scheduled?
 
 ![](./imgs/linux-lab6-15.png)
+
+## Q.17: Attempt to run `gnuplot` command?
+
+![](./imgs/linux-lab6-17.png)
+
+## Q.18: Search for the plotting package?
+
+![](./imgs/linux-lab6-18.png)
+
+## Q.19: Find out more information about the `gnuplot` package?
+
+![](./imgs/linux-lab6-19.png)
+
+## Q.20: Install the `gnuplot` pakcage?
+
+![](./imgs/linux-lab6-20.png)
+
+## Q.21 Attempt to remove `gnuplot-common` package?
+
+![](./imgs/linux-lab6-21.png)
