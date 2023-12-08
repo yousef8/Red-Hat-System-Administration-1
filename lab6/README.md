@@ -40,11 +40,13 @@
 ## Q.10: Edit `Grub2` config file and change the timeout variable equal to 20 seconds?
 
 ![](./imgs/linux-lab6-10-a.png)
+
 ![](./imgs/linux-lab6-10-b.png)
 
 ## Q.11: Edit `Grub2` config file and change your default operating system?
 
 ![](./imgs/linux-lab6-11-a.png)
+
 ![](./imgs/linux-lab6-11-b.png)
 
 ## Q.12: Send memory info every 10 minutes between 8:00 AM and 5:00 PM today?
@@ -63,22 +65,42 @@
 
 ![](./imgs/linux-lab6-15.png)
 
-## Q.17: Attempt to run `gnuplot` command?
+## Q.17: Using `YUM` Attempt to run `gnuplot` command?
 
 ![](./imgs/linux-lab6-17.png)
 
-## Q.18: Search for the plotting package?
+## Q.18: Using `YUM` Search for the plotting package?
 
 ![](./imgs/linux-lab6-18.png)
 
-## Q.19: Find out more information about the `gnuplot` package?
+## Q.19: Using `YUM` Find out more information about the `gnuplot` package?
 
 ![](./imgs/linux-lab6-19.png)
 
-## Q.20: Install the `gnuplot` pakcage?
+## Q.20: Using `YUM` Install the `gnuplot` pakcage?
 
 ![](./imgs/linux-lab6-20.png)
 
-## Q.21 Attempt to remove `gnuplot-common` package?
+## Q.21: Using `YUM` Attempt to remove `gnuplot-common` package?
 
 ![](./imgs/linux-lab6-21.png)
+
+## Q.22: Using `RPM` List all installed Packages in your system?
+
+![](./imgs/linux-lab6-22.png)
+
+## Q.23: Using `RPM` View the files in the `initscripts` package?
+
+![](./imgs/linux-lab6-23.png)
+
+## Q.24: Using `RPM` Get general information about `bash` rpm?
+
+![](./imgs/linux-lab6-24.png)
+
+## Q.25: Using `RPM` Have the files from the `pam` package changed since it was installed?
+
+![](./imgs/linux-lab6-25.png)
+
+## Q.26: Using `RPM` Which installed package have `gnome` in their name?
+
+![](./imgs/linux-lab6-26.png)
