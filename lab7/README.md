@@ -67,3 +67,15 @@ Useful in case where we need to maintain consistency across systems
 ### Try to view partition table using `fdisk`?
 
 ![](./imgs/linux-lab7-12-b.png)
+
+## Q.13: Create dir with permissions `rwxrwx---`, grant second group (sales) `r-x`?
+
+![](./imgs/linux-lab7-13.png)
+
+## Q.14: Create a file on the dir and grant `rw` access to second group (sales)?
+
+![](./imgs/linux-lab7-14.png)
+
+## Q.15: Set the owning group as the owning group of any newly created file in that dir?
+
+![](./imgs/linux-lab7-15.png)
